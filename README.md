@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h3 align="center">Algorithm oriented developer, passionate about science and research</h3>
 
-- 🌱 I’m currently learning **C++, Math and Natural Sciences**
+- 🌱 I’m currently learning **C++, Computer Architecture and Operating Systems**
 
 - 📫 How to reach me **meir8neustadt@gmail.com**
 
